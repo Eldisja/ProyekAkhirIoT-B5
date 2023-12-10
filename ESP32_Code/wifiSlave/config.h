@@ -1,16 +1,4 @@
-/* 
- * -----------------------------------------------------------------------------
- * Example: Two way communication between ESP32 and Python using WIFI
- * -----------------------------------------------------------------------------
- * Author: Radhi SGHAIER: https://github.com/Rad-hi
- * -----------------------------------------------------------------------------
- * Date: 07-05-2023 (7th of May, 2023)
- * -----------------------------------------------------------------------------
- * License: Do whatever you want with the code ...
- *          If this was ever useful to you, and we happened to meet on 
- *          the street, I'll appreciate a cup of dark coffee, no sugar please.
- * -----------------------------------------------------------------------------
- */
+
 
 #ifndef __CONFG_H___
 #define __CONFG_H___
