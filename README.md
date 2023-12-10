@@ -20,6 +20,7 @@ Serves as the power supply management unit, ensuring the continuous and reliable
 Essential for establishing connections between various hardware components, ensuring seamless communication and power distribution.
 
 ### Implementation detail
+![Proteus_schematic](Proteus_schematic.png)
 The communication infrastructure relies on Bluetooth technology, a robust and widely adopted standard for short-range wireless communication. The ESP32 establishes a secure connection with Bluetooth-enabled vehicles, providing a reliable and efficient means of verifying credentials. This ensures that only authorized vehicles gain access to the restricted area.
 
 ## Network infrastructure
