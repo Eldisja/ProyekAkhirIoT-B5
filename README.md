@@ -1,4 +1,4 @@
-# ProyekAkhirIoT-B5
+# Barrier Gate
 
 ## Introduction to the problem and the solution
 Modern security demands an intelligent and secure gate control system, especially when dealing with restricted areas. This project addresses this need by leveraging cutting-edge hardware and software integration. The solution combines components such as the ESP32 microcontroller, a servo motor for gate control, an infrared sensor for vehicle detection, a Bluetooth module for secure communication, and an Arduino for power supply management. 
